@@ -36,7 +36,7 @@ I am a passionate Software Engineer and Web Developer with strong experience in 
 A personal portfolio showcasing my skills, projects, and background.  
 **Tech:** HTML, CSS, JavaScript / React  
 **Highlights:** Responsive design, clean UI, project gallery  
-[Fosu-Kelvin/myPortfolio](#)
+[https://github.com/Fosu-Kelvin/myPortfolio](#)
 
 ---
 
@@ -44,7 +44,7 @@ A personal portfolio showcasing my skills, projects, and background.
 A Netflix-inspired web application with a dynamic movie list fetched from TMDB API.  
 **Tech:** React, JavaScript, TMDB API  
 **Highlights:** API integration, responsive UI, category sections  
-[Fosu-Kelvin/netflixClone](#)
+[https://github.com/Fosu-Kelvin/netflixClone](#)
 
 ---
 
@@ -52,7 +52,7 @@ A Netflix-inspired web application with a dynamic movie list fetched from TMDB A
 A real-time weather application that displays temperature, humidity, and wind data.  
 **Tech:** JavaScript / React, OpenWeather API  
 **Highlights:** Search function, API consumption, responsive layout  
-[Fosu-Kelvin/Weather-app1](#)
+[https://github.com/Fosu-Kelvin/Weather-app1](#)
 
 ---
 
@@ -60,7 +60,7 @@ A real-time weather application that displays temperature, humidity, and wind da
 A task management application for tracking daily activities.  
 **Tech:** HTML, CSS, JavaScript / React  
 **Highlights:** CRUD operations, local storage (if used), clean UI  
-[Fosu-Kelvin/To-d-list-app](#)
+[https://github.com/Fosu-Kelvin/To-d-list-app](#)
 
 ---
 
